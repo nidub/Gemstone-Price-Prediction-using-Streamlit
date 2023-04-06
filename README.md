@@ -20,6 +20,8 @@ Also, provide them with the best 5 attributes that are most important.**
 * X: Length of the cubic zirconia in mm.  
 * Y: Width of the cubic zirconia in mm.  
 * Z: Height of the cubic zirconia in mm.  
+* https://www.kaggle.com/code/nikitadubey/gemstones-price-prediction01 (EDA)  
+
 
 ## Dataset link
 * https://www.kaggle.com/datasets/colearninglounge/gemstone-price-prediction
